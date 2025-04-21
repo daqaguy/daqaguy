@@ -10,7 +10,7 @@
 
 > 🌍 Based in Hyderabad, India
 
-> ⚙️ I work on : Selenium with Java, Playwright with Typescript, Gen-AI Testing, Building Effective Test Strategies
+> ⚙️ I work on : Selenium with Java, Playwright with Typescript, Gen-AI Testing, Building Effective Test Strategies, Performance Testing with JMeter
 
 > 💬 Working on making QA lives Easier & building quality products
 
